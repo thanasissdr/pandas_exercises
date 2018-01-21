@@ -68,3 +68,5 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
 [Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
+
+# This is the end of the line.
